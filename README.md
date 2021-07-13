@@ -5,10 +5,10 @@ Hi, I'm StayHalal, and this is my GitHub page, where you can find most of the st
 - Email: stayhalalsoftware@gmail.com
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iProgramMC&layout=compact" width="333" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StayHalal&layout=compact" width="333" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iProgramMC&layout=compact" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StayHalal&layout=compact" width="400" />
 </a>
 
 <!--
